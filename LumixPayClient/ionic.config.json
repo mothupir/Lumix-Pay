@@ -1,0 +1,8 @@
+{
+  "name": "Lumix Pay",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
